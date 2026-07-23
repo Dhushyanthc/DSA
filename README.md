@@ -143,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dhushyanthc/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/Dhushyanthc/DSA/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Dhushyanthc/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhushyanthc/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Dhushyanthc/DSA/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Dhushyanthc/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Dhushyanthc/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Dhushyanthc/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Dhushyanthc/DSA/tree/master/0075-sort-colors) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dhushyanthc/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Dhushyanthc/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Dhushyanthc/DSA/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Dhushyanthc/DSA/tree/master/0046-permutations) |
 ## Bracket Sequences
 |  |
 | ------- |

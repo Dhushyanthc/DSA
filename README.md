@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Dhushyanthc/DSA/tree/master/0007-reverse-integer) |
 | [0258-add-digits](https://github.com/Dhushyanthc/DSA/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Dhushyanthc/DSA/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Dhushyanthc/DSA/tree/master/0973-k-closest-points-to-origin) |

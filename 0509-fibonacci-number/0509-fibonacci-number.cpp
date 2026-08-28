@@ -1,25 +1,13 @@
 class Solution {
 public:
+    unordered_map<int,int> dp;
     int fib(int n) {
-        int a = 0;
-        int b = 1;
-        int sum = a + b;
-         if (n == 0 )
-        {
-            return 0;
-        }
-        if (n == 1 )
-        {
-            return 1;
-        }
-        if (n == 2){
-            return 1;
-        }
-        for (int i = 2; i < n; i++){
-            int c = a;
-            a = b;
-            b += c;
-        }
-        return a+b;
+        if (n == 0 || n == 1) return n;
+
+        if(dp.find(n) != dp.end()) return dp[n];
+
+        int ans = fib(n-1) + fib(n-2);
+        dp[n] = ans;
+        return ans;
     }
 };

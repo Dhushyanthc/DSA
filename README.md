@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dhushyanthc/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Dhushyanthc/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Dhushyanthc/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Dhushyanthc/DSA/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/Dhushyanthc/DSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Dhushyanthc/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Dhushyanthc/DSA/tree/master/0658-find-k-closest-elements) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhushyanthc/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Dhushyanthc/DSA/tree/master/0152-maximum-product-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/Dhushyanthc/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Dhushyanthc/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Dhushyanthc/DSA/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dhushyanthc/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Dhushyanthc/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Dhushyanthc/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Dhushyanthc/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Dhushyanthc/DSA/tree/master/0046-permutations) |
+| [0494-target-sum](https://github.com/Dhushyanthc/DSA/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -279,8 +282,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Dhushyanthc/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Dhushyanthc/DSA/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Dhushyanthc/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Dhushyanthc/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->

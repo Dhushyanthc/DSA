@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dhushyanthc/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Dhushyanthc/DSA/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Dhushyanthc/DSA/tree/master/0692-top-k-frequent-words) |
+| [0730-count-different-palindromic-subsequences](https://github.com/Dhushyanthc/DSA/tree/master/0730-count-different-palindromic-subsequences) |
 | [0844-backspace-string-compare](https://github.com/Dhushyanthc/DSA/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/Dhushyanthc/DSA/tree/master/1143-longest-common-subsequence) |
 ## Stack
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Dhushyanthc/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Dhushyanthc/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Dhushyanthc/DSA/tree/master/0509-fibonacci-number) |
+| [0730-count-different-palindromic-subsequences](https://github.com/Dhushyanthc/DSA/tree/master/0730-count-different-palindromic-subsequences) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dhushyanthc/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/Dhushyanthc/DSA/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Dhushyanthc/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |

@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dhushyanthc/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Dhushyanthc/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Dhushyanthc/DSA/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Dhushyanthc/DSA/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Dhushyanthc/DSA/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/Dhushyanthc/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Dhushyanthc/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dhushyanthc/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dhushyanthc/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Dhushyanthc/DSA/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Dhushyanthc/DSA/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/Dhushyanthc/DSA/tree/master/0692-top-k-frequent-words) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Dhushyanthc/DSA/tree/master/0730-count-different-palindromic-subsequences) |
 | [0844-backspace-string-compare](https://github.com/Dhushyanthc/DSA/tree/master/0844-backspace-string-compare) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Dhushyanthc/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Dhushyanthc/DSA/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dhushyanthc/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0647-palindromic-substrings](https://github.com/Dhushyanthc/DSA/tree/master/0647-palindromic-substrings) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Dhushyanthc/DSA/tree/master/0730-count-different-palindromic-subsequences) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dhushyanthc/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dhushyanthc/DSA/tree/master/0918-maximum-sum-circular-subarray) |

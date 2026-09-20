@@ -1,40 +1,31 @@
 class Solution {
 public:
     bool canPartition(vector<int>& nums) {
-        int n = nums.size();
         int sum = 0;
-        for (int num : nums){
-            sum += num;
+        for(int n:nums){
+            sum+=n;
         }
 
 
-        int target = sum/2;
-        vector<vector<int>> dp(n+1);
-        for (int i = 0; i <= n; i++){
-            vector<int> t(target+1, 0);
-            dp[i] = t;
-        }
-        
-        
-         dp[0][0] = 1;
-        if (sum%2 == 0) 
-        {
-           for (int i = 1; i <= n; i++){
-            for(int j = 0; j <= target; j++){
-               dp[i][j] = dp[i-1][j];
+        if(sum%2 != 0) return false;
+        int n = nums.size();
+        vector<vector<int>> dp(n+1, vector<int>((sum/2)+1,-1));
 
-               if (j >= nums[i-1]){
-                dp[i][j] = dp[i][j] || dp[i-1][j - nums[i-1]];
-               }
+        int res = solve(0, sum/2,nums,dp);
+        return (res == 1)?true:false;
 
-            }
-           }
-        }else{
-            return false;
-        }
-
-        return dp[n][target] == 1;
     }
 
+    int solve(int i, int target, vector<int>& nums, vector<vector<int>>& dp){
+        if (target == 0) return dp[i][target] = 1;
+        if(i == nums.size()) return dp[i][target] = 0;
 
+        if(dp[i][target] != -1) return dp[i][target];
+        if(nums[i] <= target){
+        int take = solve(i+1, target - nums[i], nums, dp);
+        int skip = solve(i+1, target, nums,dp);
+        return dp[i][target] = max(take, skip);
+        }
+        return solve(i+1, target, nums, dp);
+    }
 };

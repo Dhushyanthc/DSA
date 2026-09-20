@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhushyanthc/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhushyanthc/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Dhushyanthc/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/Dhushyanthc/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Dhushyanthc/DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhushyanthc/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Dhushyanthc/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dhushyanthc/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Dhushyanthc/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Dhushyanthc/DSA/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Dhushyanthc/DSA/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/Dhushyanthc/DSA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhushyanthc/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dhushyanthc/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dhushyanthc/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Dhushyanthc/DSA/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhushyanthc/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/Dhushyanthc/DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Dhushyanthc/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dhushyanthc/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dhushyanthc/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Dhushyanthc/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhushyanthc/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Dhushyanthc/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/Dhushyanthc/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Dhushyanthc/DSA/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Dhushyanthc/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Dhushyanthc/DSA/tree/master/0198-house-robber) |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Dhushyanthc/DSA/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/Dhushyanthc/DSA/tree/master/0692-top-k-frequent-words) |
 ## Geometry
 |  |
@@ -298,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Dhushyanthc/DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Dhushyanthc/DSA/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Dhushyanthc/DSA/tree/master/0509-fibonacci-number) |
 ## Number Theory
 |  |
@@ -431,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Dhushyanthc/DSA/tree/master/0322-coin-change) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Dhushyanthc/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

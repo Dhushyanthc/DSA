@@ -22,7 +22,6 @@ public:
         queue<TreeNode*> q;
         q.push(root);
         while(!q.empty()){
-            
             int lvlsize = q.size();
             vector<int> tmp;
             tmp.reserve(lvlsize);

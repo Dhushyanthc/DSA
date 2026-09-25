@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Dhushyanthc/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Dhushyanthc/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dhushyanthc/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Dhushyanthc/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dhushyanthc/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Dhushyanthc/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Dhushyanthc/DSA/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Dhushyanthc/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Dhushyanthc/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Dhushyanthc/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dhushyanthc/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Dhushyanthc/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Dhushyanthc/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Dhushyanthc/DSA/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Dhushyanthc/DSA/tree/master/0322-coin-change) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Dhushyanthc/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |

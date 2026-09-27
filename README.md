@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Dhushyanthc/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Dhushyanthc/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Dhushyanthc/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Dhushyanthc/DSA/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Dhushyanthc/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dhushyanthc/DSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhushyanthc/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhushyanthc/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Dhushyanthc/DSA/tree/master/0055-jump-game) |
 | [0502-ipo](https://github.com/Dhushyanthc/DSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Dhushyanthc/DSA/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/Dhushyanthc/DSA/tree/master/0860-lemonade-change) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Dhushyanthc/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Dhushyanthc/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Dhushyanthc/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Dhushyanthc/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Dhushyanthc/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Dhushyanthc/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhushyanthc/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |

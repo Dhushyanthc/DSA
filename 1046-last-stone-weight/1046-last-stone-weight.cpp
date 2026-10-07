@@ -3,21 +3,15 @@ public:
     int lastStoneWeight(vector<int>& stones) {
         priority_queue<int> pq;
 
-        for(int x:stones){
-            pq.push(x);
-        }
+        for(int x:stones) pq.push(x);
 
-        while(!pq.empty()){
-            int a = pq.top();
+        while(pq.size() > 1){
+            int num1 = pq.top();
             pq.pop();
-            if(pq.empty()) return a;
-            int b = pq.top();
+            int num2 = pq.top();
             pq.pop();
-            if(a != b){
-                pq.push(abs(a-b));
-                if(pq.empty()) return abs(a-b);
-            }
+            pq.push(abs(num1-num2));
         }
-        return 0;
+        return pq.top();
     }
 };

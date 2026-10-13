@@ -1,7 +1,7 @@
 class Solution {
 public:
     int climbStairs(int n) {
-        int i = 0;
+      int i = 0;
         int r = back(i , n);
         return r;
     }

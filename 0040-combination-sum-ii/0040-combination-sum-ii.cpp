@@ -14,7 +14,7 @@ public:
         }
 
         for(int i = start; i < candidates.size(); i++){
-            if(candidates[i]>remaining) continue;
+            if(candidates[i]>remaining) break;
             path.push_back(candidates[i]);
             solve(i+1, remaining - candidates[i],candidates);
             path.pop_back();

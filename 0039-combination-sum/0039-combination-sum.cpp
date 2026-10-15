@@ -1,34 +1,24 @@
 class Solution {
 public:
-
-    vector<vector<int>> result;
-
+    vector<vector<int>> ans;
+    vector<int> path;
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-
-        int n = candidates.size();
-        vector<int> dairy;
-        int idx =0;
-        int sum = 0;
-        back(candidates, n, idx, dairy, sum, target, result);
-        return result;
+        solve(0, target, candidates);
+        return ans;
+       
     }
 
-    void back(vector<int>& candidates, int n, int idx, vector<int>& dairy,int sum, int target, vector<vector<int>>& result ){
-
-        if(sum == target){
-            result.push_back(dairy);
+    void solve(int start, int remaining ,vector<int>& candidates ){
+        if(remaining == 0){
+            ans.push_back(path);
             return;
         }
 
-        if (idx >= n) return;
-
-        back(candidates, n, idx + 1, dairy, sum, target, result);
-
-        if(sum + candidates[idx] <= target){
-            dairy.push_back(candidates[idx]);
-            back(candidates, n, idx, dairy, sum + candidates[idx], target, result);
-            dairy.pop_back();
+        for(int i = start; i < candidates.size(); i++){
+            if(candidates[i]>remaining) continue;
+            path.push_back(candidates[i]);
+            solve(i, remaining - candidates[i],candidates);
+            path.pop_back();
         }
-        return;
     }
 };

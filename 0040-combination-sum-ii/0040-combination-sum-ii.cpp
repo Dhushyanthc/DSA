@@ -15,10 +15,10 @@ public:
 
         for(int i = start; i < candidates.size(); i++){
             if(candidates[i]>remaining) break;
+            if (i > start && candidates[i] == candidates[i - 1]) continue;
             path.push_back(candidates[i]);
             solve(i+1, remaining - candidates[i],candidates);
             path.pop_back();
-            while(i+1<candidates.size() && candidates[i]==candidates[i+1]) i++;
         }
      }
 };

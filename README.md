@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dhushyanthc/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Dhushyanthc/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Dhushyanthc/DSA/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Dhushyanthc/DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Dhushyanthc/DSA/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/Dhushyanthc/DSA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhushyanthc/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhushyanthc/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Dhushyanthc/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dhushyanthc/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Dhushyanthc/DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Dhushyanthc/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Dhushyanthc/DSA/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Dhushyanthc/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Dhushyanthc/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Dhushyanthc/DSA/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Dhushyanthc/DSA/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Dhushyanthc/DSA/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Dhushyanthc/DSA/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |

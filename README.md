@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Dhushyanthc/DSA/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Dhushyanthc/DSA/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Dhushyanthc/DSA/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Dhushyanthc/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/Dhushyanthc/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [2235-add-two-integers](https://github.com/Dhushyanthc/DSA/tree/master/2235-add-two-integers) |
 ## Recursion
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Dhushyanthc/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Dhushyanthc/DSA/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Dhushyanthc/DSA/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Dhushyanthc/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 ## Database
 |  |
 | ------- |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Dhushyanthc/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Dhushyanthc/DSA/tree/master/0090-subsets-ii) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Dhushyanthc/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 ## Matrix
 |  |
 | ------- |

@@ -14,25 +14,21 @@ public:
     vector<vector<int>> res;
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
         int sum = 0;
-        PathSum(root, sum, targetSum);
+        vector<int> path;
+        solve(root, targetSum, sum, path);
         return res;
     }
-    vector<int> dairy;
-   void PathSum(TreeNode* root,int sum, int targetSum){
-        if(root == NULL) return;
-
-
-        sum = sum + root->val;
-        dairy.push_back(root->val);
-        if(root->left == NULL && root->right == NULL){
+    void solve(TreeNode* root, int targetSum, int sum, vector<int>& path){
+        if(root==NULL) return;
+        sum+= root->val;
+        path.push_back(root->val);
+        if(root->left == nullptr && root->right == nullptr){
             if(sum == targetSum)
-            res.push_back(dairy);
-            dairy.pop_back();
-            return;
+                res.push_back(path);
         }
-        
-        PathSum(root->left, sum, targetSum);
-        PathSum(root->right, sum, targetSum);
-        dairy.pop_back();
+        solve(root->left, targetSum, sum, path);
+        solve(root->right, targetSum, sum, path);
+        path.pop_back();
+
     }
 };

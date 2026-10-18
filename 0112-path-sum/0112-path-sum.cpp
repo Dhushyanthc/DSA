@@ -13,18 +13,19 @@ class Solution {
 public:
     bool hasPathSum(TreeNode* root, int targetSum) {
         int sum = 0;
-        return PathSum(root, sum, targetSum);
+        return solve(root, targetSum, sum);
+
     }
-
-    bool PathSum(TreeNode* root,int sum, int targetSum){
-        if(root == NULL) return false;
-
-        sum += root->val;
-
-        if(root->left == NULL && root->right == NULL){
-            if(targetSum == sum) return true;
+    bool solve(TreeNode* root, int targetSum, int sum){
+        if(root==NULL) return false;
+        sum+= root->val;
+        if(root->left == nullptr && root->right == nullptr){
+            if(sum == targetSum) 
+            return true;
         }
-        return PathSum(root->left, sum, targetSum) ||
-               PathSum(root->right, sum, targetSum);
+        bool left = solve(root->left, targetSum, sum);
+        bool right = solve(root->right, targetSum, sum);
+        return left||right;
+
     }
 };

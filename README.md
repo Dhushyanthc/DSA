@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Dhushyanthc/DSA/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/Dhushyanthc/DSA/tree/master/0692-top-k-frequent-words) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Dhushyanthc/DSA/tree/master/0730-count-different-palindromic-subsequences) |
+| [0784-letter-case-permutation](https://github.com/Dhushyanthc/DSA/tree/master/0784-letter-case-permutation) |
 | [0844-backspace-string-compare](https://github.com/Dhushyanthc/DSA/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/Dhushyanthc/DSA/tree/master/1143-longest-common-subsequence) |
 ## Stack
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Dhushyanthc/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Dhushyanthc/DSA/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Dhushyanthc/DSA/tree/master/0494-target-sum) |
+| [0784-letter-case-permutation](https://github.com/Dhushyanthc/DSA/tree/master/0784-letter-case-permutation) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Dhushyanthc/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Dhushyanthc/DSA/tree/master/0090-subsets-ii) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Dhushyanthc/DSA/tree/master/0779-k-th-symbol-in-grammar) |
+| [0784-letter-case-permutation](https://github.com/Dhushyanthc/DSA/tree/master/0784-letter-case-permutation) |
 ## Matrix
 |  |
 | ------- |

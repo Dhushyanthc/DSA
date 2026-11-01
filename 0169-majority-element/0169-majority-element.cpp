@@ -6,7 +6,6 @@ public:
 
         int max=0;
         int maxvalue =0;
-        int i=0;
 
         for (int x:nums)
         {
@@ -17,7 +16,7 @@ public:
                 max = freq[x];
                 maxvalue = x;
             }
-            i++;
+
         }
        int n = (nums.size()/2 - 1);
         if (max > n)

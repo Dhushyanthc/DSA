@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Dhushyanthc/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/Dhushyanthc/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dhushyanthc/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/Dhushyanthc/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Dhushyanthc/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Dhushyanthc/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Dhushyanthc/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Dhushyanthc/DSA/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Dhushyanthc/DSA/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Dhushyanthc/DSA/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Dhushyanthc/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 ## Database

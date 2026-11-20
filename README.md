@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhushyanthc/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhushyanthc/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Dhushyanthc/DSA/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Dhushyanthc/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0844-backspace-string-compare](https://github.com/Dhushyanthc/DSA/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Dhushyanthc/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Dhushyanthc/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Dhushyanthc/DSA/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Dhushyanthc/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Dhushyanthc/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Dhushyanthc/DSA/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Dhushyanthc/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Dhushyanthc/DSA/tree/master/0268-missing-number) |
+| [0445-add-two-numbers-ii](https://github.com/Dhushyanthc/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Dhushyanthc/DSA/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Dhushyanthc/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/Dhushyanthc/DSA/tree/master/0973-k-closest-points-to-origin) |

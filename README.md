@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Dhushyanthc/DSA/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dhushyanthc/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/Dhushyanthc/DSA/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/Dhushyanthc/DSA/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Dhushyanthc/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dhushyanthc/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/Dhushyanthc/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Dhushyanthc/DSA/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/Dhushyanthc/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Dhushyanthc/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/Dhushyanthc/DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dhushyanthc/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dhushyanthc/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Dhushyanthc/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Dhushyanthc/DSA/tree/master/0692-top-k-frequent-words) |
+| [0881-boats-to-save-people](https://github.com/Dhushyanthc/DSA/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/Dhushyanthc/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dhushyanthc/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Dhushyanthc/DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dhushyanthc/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0860-lemonade-change](https://github.com/Dhushyanthc/DSA/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/Dhushyanthc/DSA/tree/master/0881-boats-to-save-people) |
 ## String
 |  |
 | ------- |
@@ -646,4 +650,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dhushyanthc/DSA/tree/master/0169-majority-element) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Dhushyanthc/DSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->

@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dhushyanthc/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dhushyanthc/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Dhushyanthc/DSA/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Dhushyanthc/DSA/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Dhushyanthc/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Dhushyanthc/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Dhushyanthc/DSA/tree/master/0079-word-search) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dhushyanthc/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dhushyanthc/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Dhushyanthc/DSA/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Dhushyanthc/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Dhushyanthc/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhushyanthc/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Dhushyanthc/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Dhushyanthc/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Dhushyanthc/DSA/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/Dhushyanthc/DSA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Dhushyanthc/DSA/tree/master/0079-word-search) |
 ## Algorithm X
 |  |

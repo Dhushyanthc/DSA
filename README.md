@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Dhushyanthc/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Dhushyanthc/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Dhushyanthc/DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Dhushyanthc/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Dhushyanthc/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Dhushyanthc/DSA/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/Dhushyanthc/DSA/tree/master/0445-add-two-numbers-ii) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Dhushyanthc/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Dhushyanthc/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Dhushyanthc/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Dhushyanthc/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Dhushyanthc/DSA/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Dhushyanthc/DSA/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Dhushyanthc/DSA/tree/master/0779-k-th-symbol-in-grammar) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Dhushyanthc/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Dhushyanthc/DSA/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Dhushyanthc/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dhushyanthc/DSA/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Dhushyanthc/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/Dhushyanthc/DSA/tree/master/0784-letter-case-permutation) |
